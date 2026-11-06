@@ -1,0 +1,36 @@
+product_id,product_name,brand,category,subcategory,mrp,discount_percent,final_price,quantity,description,is_organic,veg,avg_rating,stock_qty,image_url
+P100001,FreshFarm Banana,FreshFarm,Fruits,Banana,75,15,75.0,200 g,Premium banana suitable for daily cooking and consumption.,False,True,4.4,208,https://example.com/images/100001.jpg
+P100002,DailyChoice Apple,DailyChoice,Fruits,Apple,99,10,79.2,1 L,Premium apple suitable for daily cooking and consumption.,False,True,3.8,176,https://example.com/images/100002.jpg
+P100003,GoodFood Mango,GoodFood,Fruits,Mango,75,20,63.75,200 g,Premium mango suitable for daily cooking and consumption.,True,True,4.1,218,https://example.com/images/100003.jpg
+P100004,DailyChoice Orange,DailyChoice,Fruits,Orange,60,10,57.0,500 ml,Premium orange suitable for daily cooking and consumption.,False,True,4.1,239,https://example.com/images/100004.jpg
+P100005,FreshFarm Pomegranate,FreshFarm,Fruits,Pomegranate,45,20,40.5,500 ml,Premium pomegranate suitable for daily cooking and consumption.,False,True,4.5,49,https://example.com/images/100005.jpg
+P100006,UrbanHarvest Tomato,UrbanHarvest,Vegetables,Tomato,35,0,33.25,1 kg,Premium tomato suitable for daily cooking and consumption.,True,True,4.4,65,https://example.com/images/100006.jpg
+P100007,UrbanHarvest Potato,UrbanHarvest,Vegetables,Potato,149,10,134.1,200 g,Premium potato suitable for daily cooking and consumption.,True,True,4.3,217,https://example.com/images/100007.jpg
+P100008,GoodFood Onion,GoodFood,Vegetables,Onion,60,0,60.0,1 L,Premium onion suitable for daily cooking and consumption.,False,True,4.2,144,https://example.com/images/100008.jpg
+P100009,FreshFarm Spinach,FreshFarm,Vegetables,Spinach,25,15,23.75,1 L,Premium spinach suitable for daily cooking and consumption.,False,True,3.8,149,https://example.com/images/100009.jpg
+P100010,NatureNest Carrot,NatureNest,Vegetables,Carrot,45,20,45.0,500 ml,Premium carrot suitable for daily cooking and consumption.,False,True,4.5,223,https://example.com/images/100010.jpg
+P100011,GoodFood Milk,GoodFood,Dairy,Milk,99,0,99.0,500 g,Premium milk suitable for daily cooking and consumption.,False,True,3.9,37,https://example.com/images/100011.jpg
+P100012,UrbanHarvest Curd,UrbanHarvest,Dairy,Curd,120,0,96.0,500 g,Premium curd suitable for daily cooking and consumption.,True,True,3.8,27,https://example.com/images/100012.jpg
+P100013,GoodFood Paneer,GoodFood,Dairy,Paneer,45,10,36.0,200 g,Premium paneer suitable for daily cooking and consumption.,False,True,4.5,122,https://example.com/images/100013.jpg
+P100014,NatureNest Butter,NatureNest,Dairy,Butter,149,5,149.0,500 ml,Premium butter suitable for daily cooking and consumption.,True,True,3.9,23,https://example.com/images/100014.jpg
+P100015,FreshFarm Cheese,FreshFarm,Dairy,Cheese,60,0,54.0,200 g,Premium cheese suitable for daily cooking and consumption.,True,True,4.3,216,https://example.com/images/100015.jpg
+P100016,UrbanHarvest Potato Chips,UrbanHarvest,Snacks,Potato Chips,25,0,21.25,500 g,Premium potato chips suitable for daily cooking and consumption.,True,True,4.4,29,https://example.com/images/100016.jpg
+P100017,GoodFood Nachos,GoodFood,Snacks,Nachos,75,10,60.0,1 L,Premium nachos suitable for daily cooking and consumption.,True,True,4.5,227,https://example.com/images/100017.jpg
+P100018,GoodFood Popcorn,GoodFood,Snacks,Popcorn,120,15,108.0,1 kg,Premium popcorn suitable for daily cooking and consumption.,True,True,4.5,163,https://example.com/images/100018.jpg
+P100019,DailyChoice Salted Peanuts,DailyChoice,Snacks,Salted Peanuts,25,5,23.75,1 kg,Premium salted peanuts suitable for daily cooking and consumption.,True,True,4.4,127,https://example.com/images/100019.jpg
+P100020,FreshFarm Khakhra,FreshFarm,Snacks,Khakhra,199,0,199.0,200 g,Premium khakhra suitable for daily cooking and consumption.,False,True,4.6,179,https://example.com/images/100020.jpg
+P100021,DailyChoice Orange Juice,DailyChoice,Beverages,Orange Juice,199,0,179.1,200 g,Premium orange juice suitable for daily cooking and consumption.,True,True,4.2,56,https://example.com/images/100021.jpg
+P100022,GoodFood Coconut Water,GoodFood,Beverages,Coconut Water,45,15,40.5,1 L,Premium coconut water suitable for daily cooking and consumption.,True,True,4.9,160,https://example.com/images/100022.jpg
+P100023,FreshFarm Green Tea,FreshFarm,Beverages,Green Tea,149,5,141.55,500 g,Premium green tea suitable for daily cooking and consumption.,True,True,4.3,45,https://example.com/images/100023.jpg
+P100024,GoodFood Cold Coffee,GoodFood,Beverages,Cold Coffee,60,5,60.0,100 g,Premium cold coffee suitable for daily cooking and consumption.,False,True,4.1,247,https://example.com/images/100024.jpg
+P100025,DailyChoice Lemon Soda,DailyChoice,Beverages,Lemon Soda,75,20,67.5,500 ml,Premium lemon soda suitable for daily cooking and consumption.,False,True,4.0,163,https://example.com/images/100025.jpg
+P100026,GoodFood Brown Bread,GoodFood,Bakery,Brown Bread,35,10,28.0,1 kg,Premium brown bread suitable for daily cooking and consumption.,False,True,4.3,40,https://example.com/images/100026.jpg
+P100027,UrbanHarvest Whole Wheat Bread,UrbanHarvest,Bakery,Whole Wheat Bread,149,5,149.0,100 g,Premium whole wheat bread suitable for daily cooking and consumption.,True,True,4.1,183,https://example.com/images/100027.jpg
+P100028,GoodFood Burger Buns,GoodFood,Bakery,Burger Buns,149,20,119.2,1 kg,Premium burger buns suitable for daily cooking and consumption.,False,True,4.2,99,https://example.com/images/100028.jpg
+P100029,UrbanHarvest Croissant,UrbanHarvest,Bakery,Croissant,199,15,169.15,100 g,Premium croissant suitable for daily cooking and consumption.,False,True,3.8,64,https://example.com/images/100029.jpg
+P100030,NatureNest Muffin,NatureNest,Bakery,Muffin,99,0,84.15,100 g,Premium muffin suitable for daily cooking and consumption.,True,True,4.0,91,https://example.com/images/100030.jpg
+P100031,GoodFood Basmati Rice,GoodFood,Grains,Basmati Rice,99,20,89.1,200 g,Premium basmati rice suitable for daily cooking and consumption.,True,True,3.8,227,https://example.com/images/100031.jpg
+P100032,NatureNest Wheat Flour,NatureNest,Grains,Wheat Flour,149,15,119.2,100 g,Premium wheat flour suitable for daily cooking and consumption.,False,True,4.1,74,https://example.com/images/100032.jpg
+P100033,NatureNest Oats,NatureNest,Grains,Oats,199,15,179.1,500 g,Premium oats suitable for daily cooking and consumption.,True,True,4.7,70,https://example.com/images/100033.jpg
+P100034,FreshFarm Poha,FreshFarm,Grains,Poha,35,10,33.25,200 g,Premium poha suitable for daily cooking and consumption.,False,True,4.6,40,https://example.com/images/100034.jpg
+P100035,NatureNest Rava,NatureNest,Grains,Rava,60,15,57.0,100 g,Premium rava suitable for daily cooking and consumption.,True,True,4.5,75,https://example.com/images/100035.jpg
